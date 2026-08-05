@@ -20,9 +20,23 @@ O tema escolhido foi **Engenharia de Prompts**, por ser uma habilidade essencial
 
 ## 📚 Curadoria de Fontes
 
-*Esta seção será preenchida após selecionarmos as fontes utilizadas no NotebookLM.*
+As fontes abaixo foram selecionadas por serem referências reconhecidas na área de Inteligência Artificial e Engenharia de Prompts. Elas foram carregadas no NotebookLM para servir como base na construção do caderno temático.
 
----
+| Fonte | Tipo | Objetivo |
+|-------|------|----------|
+| Learn Prompting – A Complete How-To Guide to NotebookLM | Artigo | Compreender o funcionamento e os recursos do NotebookLM. |
+| ChatGPT Prompt Patterns for Improving Code Quality (arXiv) | Artigo Científico | Estudar padrões de prompts aplicados ao desenvolvimento de software. |
+| Claude Prompt Engineering: Best Practices | Documentação | Conhecer boas práticas para criação de prompts eficientes. |
+| Prompting Guide 101 – Google | Documentação Oficial | Aprender técnicas de criação de prompts para modelos generativos. |
+| Prompt Engineering Techniques – Microsoft Foundry | Documentação Oficial | Explorar estratégias de otimização de prompts para IA. |
+
+### Critérios utilizados na escolha das fontes
+
+- Fontes oficiais e reconhecidas no mercado.
+- Conteúdo atualizado sobre IA Generativa.
+- Materiais com exemplos práticos.
+- Documentações voltadas para boas práticas.
+- Diversidade de abordagens entre diferentes empresas e pesquisadores.
 
 ## 🤖 Engenharia de Prompts
 
